@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "89954303050",
+    "project_id": "qac-course",
+    "storage_bucket": "qac-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89954303050:android:ac97f63e3df7e3364e7ab3",
+        "android_client_info": {
+          "package_name": "com.antivariantum.firebaseauth1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5Lu0qZ2b7_7lXsV1OdvJOSoI5dYE9ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89954303050:android:8f4b54a93eac908c4e7ab3",
+        "android_client_info": {
+          "package_name": "com.antivariantum.jetpackexample1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5Lu0qZ2b7_7lXsV1OdvJOSoI5dYE9ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89954303050:android:41cc180bb37e5efa4e7ab3",
+        "android_client_info": {
+          "package_name": "com.antivariantum.mvpexamplejava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5Lu0qZ2b7_7lXsV1OdvJOSoI5dYE9ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

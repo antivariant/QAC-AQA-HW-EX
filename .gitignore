@@ -1,0 +1,59 @@
+# Node.js / JavaScript
+# Игнорировать директорию node_modules
+node_modules/
+# Игнорировать лог-файлы
+npm-debug.log
+yarn-error.log
+
+# DotNet Core / C#
+# Игнорировать директорию bin и obj
+**/bin/
+**/obj/
+# Игнорировать файлы пользовательских настроек
+*.user
+*.suo
+
+# Android / Java / Kotlin
+# Игнорировать директорию build
+**/build/
+# Игнорировать локальные конфигурационные файлы
+local.properties
+
+# iOS / Swift
+# Игнорировать директории build и DerivedData
+build/
+DerivedData/
+# Игнорировать пользовательские конфигурационные файлы
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+# C++
+# Игнорировать исполняемые и объектные файлы, а также файлы библиотек
+*.exe
+*.dll
+*.so
+*.o
+*.a
+# Игнорировать файлы, связанные с редакторами кода и IDE
+*.suo
+*.user
+*.user.*
+*.sln.docstates
+
+# Python
+# Игнорировать директорию __pycache__
+__pycache__/
+# Игнорировать файлы .pyc и .pyo
+*.pyc
+*.pyo
+# Игнорировать файлы, связанные с виртуальными окружениями
+*.env
+.venv/
+

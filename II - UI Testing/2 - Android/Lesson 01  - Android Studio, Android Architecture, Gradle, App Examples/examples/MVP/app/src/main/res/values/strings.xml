@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPExampleJava</string>
+    <string name="trainer_caption">Тренер:</string>
+    <string name="course_description_caption">Описание курса:</string>
+</resources>

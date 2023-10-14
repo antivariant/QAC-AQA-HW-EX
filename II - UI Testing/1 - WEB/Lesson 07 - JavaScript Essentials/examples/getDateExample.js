@@ -1,0 +1,9 @@
+let date = new Date(Date.now());
+console.log("Initial date = ", date);
+console.log("getFullYear()=", date.getFullYear());
+console.log("getMonth()=", date.getMonth());
+console.log("getDate()=", date.getDate());
+console.log("getHours()=", date.getHours());
+console.log("getMinutes()=", date.getMinutes());
+console.log("getSeconds()=", date.getSeconds());
+console.log("getMilliseconds()=", date.getMilliseconds());
